@@ -1,0 +1,95 @@
+{
+  "uuid": "5e1dfa17-a228-46d4-8c1d-21dcdba2b4f5-tr-0-1010",
+  "historyId": "TestProject1.CalculatorAddTests.EvenTest(0)",
+  "fullName": "TestProject1.CalculatorAddTests.EvenTest(0)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "EvenTest"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "EvenTest(0)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "EvenTest(0)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EvenTest(0)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "2d5b1635d1f2439bb79b20ff3747398c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1639329581910,
+      "stop": 1639329581918
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "0"
+    }
+  ],
+  "start": 1639329581909,
+  "stop": 1639329581923
+}

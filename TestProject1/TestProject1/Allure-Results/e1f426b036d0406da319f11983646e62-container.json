@@ -1,0 +1,12 @@
+{
+  "uuid": "0-1003-ignored",
+  "name": "TestProject1.CalculatorAddTests",
+  "children": [
+    "0-1009"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1635368003882,
+  "stop": 1635368004256
+}

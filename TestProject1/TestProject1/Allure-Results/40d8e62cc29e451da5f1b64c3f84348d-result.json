@@ -1,0 +1,80 @@
+{
+  "uuid": "9eada195-b568-47f4-9c80-a5893cbb5205-tr-0-1001",
+  "historyId": "TestProject1.Class2.Test1",
+  "fullName": "TestProject1.Class2.Test1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.Class2"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.Class2"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test1"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Test1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Login with user user and password pwd123",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1635368108845,
+          "stop": 1635368108846
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ad2cf96c7f774486af48c9a61e048f82-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635368108843,
+      "stop": 1635368108854
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1635368108842,
+  "stop": 1635368108857
+}

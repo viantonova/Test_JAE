@@ -1,0 +1,137 @@
+{
+  "uuid": "2977423c-0e36-4546-b6f1-7cbe1f520a5c-tr-0-1004",
+  "historyId": "TestProject1.ClassLifecycle.EvenTest(1)",
+  "fullName": "TestProject1.ClassLifecycle.EvenTest(1)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.ClassLifecycle"
+    },
+    {
+      "name": "testMethod",
+      "value": "EvenTest"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.ClassLifecycle"
+    },
+    {
+      "name": "owner",
+      "value": "unickq"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    },
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "EvenTest(1)",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Oh no :( 1 % 2 = 1\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at TestProject1.ClassLifecycle.<>c__DisplayClass2_0.<EvenTest>b__0() in D:\\JAE\\TestProject1\\TestProject1\\ClassLifecycle.cs:line 41\r\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\r\n   at TestProject1.ClassLifecycle.EvenTest(Int32 value) in D:\\JAE\\TestProject1\\TestProject1\\ClassLifecycle.cs:line 40\r\n"
+  },
+  "stage": "finished",
+  "description": "Examples\n",
+  "steps": [
+    {
+      "name": "EvenTest(1)",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Oh no :( 1 % 2 = 1\r\n  Expected: True\r\n  But was:  False\r\n",
+        "trace": "   at TestProject1.ClassLifecycle.<>c__DisplayClass2_0.<EvenTest>b__0() in D:\\JAE\\TestProject1\\TestProject1\\ClassLifecycle.cs:line 41\r\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\r\n   at TestProject1.ClassLifecycle.EvenTest(Int32 value) in D:\\JAE\\TestProject1\\TestProject1\\ClassLifecycle.cs:line 40\r\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "This method is just saying hello",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1635366505060,
+          "stop": 1635366505060
+        },
+        {
+          "name": "Validate calculations",
+          "status": "failed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false,
+            "message": "  Oh no :( 1 % 2 = 1\r\n  Expected: True\r\n  But was:  False\r\n",
+            "trace": "   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)\r\n   at NUnit.Framework.Assert.IsTrue(Boolean condition, String message, Object[] args)\r\n   at TestProject1.ClassLifecycle.<>c__DisplayClass2_0.<EvenTest>b__0() in D:\\JAE\\TestProject1\\TestProject1\\ClassLifecycle.cs:line 41\r\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)"
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1635366505060,
+          "stop": 1635366505065
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "e64e435edafc459f8cbede7a865199ba-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635366505060,
+      "stop": 1635366505089
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "1"
+    }
+  ],
+  "start": 1635366505060,
+  "stop": 1635366505089
+}

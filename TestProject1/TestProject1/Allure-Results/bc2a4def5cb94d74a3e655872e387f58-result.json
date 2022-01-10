@@ -1,0 +1,88 @@
+{
+  "uuid": "ff43cdba-6f1f-462d-a821-4a2bc5451b7c-tr-0-1007",
+  "historyId": "TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0",
+  "fullName": "TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Return0_WhenMultiply10And0"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "subSuite",
+      "value": "Mul"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [],
+  "name": "Return0_WhenMultiply10And0",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: 1\r\n  But was:  0\r\n",
+    "trace": "   at TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0() in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 87\r\n"
+  },
+  "stage": "finished",
+  "description": "Multiply two integers and returns the mullll\n",
+  "steps": [
+    {
+      "name": "Return0_WhenMultiply10And0",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: 1\r\n  But was:  0\r\n",
+        "trace": "   at TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0() in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 87\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "12121887a61445d4b58f8bc6055ead14-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635368004214,
+      "stop": 1635368004217
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1635368004214,
+  "stop": 1635368004217
+}

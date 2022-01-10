@@ -1,0 +1,12 @@
+{
+  "uuid": "d337c156-6912-48a0-8cb6-ab46e9ced131-tc-0-1003",
+  "name": "TestProject1.CalculatorAddTests.Return_Square",
+  "children": [
+    "6211c66c-6bfc-4cb2-824c-336af4424e14-tr-0-1008"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1641803910939,
+  "stop": 1641803910952
+}

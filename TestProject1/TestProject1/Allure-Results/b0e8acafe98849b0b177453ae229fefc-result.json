@@ -1,0 +1,85 @@
+{
+  "uuid": "84ac63f8-c864-43bf-a9cc-45792c9dfa1b-tr-0-1005",
+  "historyId": "TestProject1.CalculatorAddTests.Return0_WhenAdd0And0",
+  "fullName": "TestProject1.CalculatorAddTests.Return0_WhenAdd0And0",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Return0_WhenAdd0And0"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "subSuite",
+      "value": "Add"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [],
+  "name": "Return0_WhenAdd0And0",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Return0_WhenAdd0And0"
+  },
+  "stage": "finished",
+  "description": "Add two integers and returns the sum\n",
+  "steps": [
+    {
+      "name": "Return0_WhenAdd0And0",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "3c733951129a4b33a0d1253dea6bc93e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635366891281,
+      "stop": 1635366891282
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1635366891281,
+  "stop": 1635366891283
+}

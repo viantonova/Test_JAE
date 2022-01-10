@@ -1,0 +1,12 @@
+{
+  "uuid": "85696e9a-5e43-4963-9d22-223b7eb888eb-tc-0-1003",
+  "name": "TestProject1.CalculatorAddTests.EvenTest(2)",
+  "children": [
+    "440568c5-ac2b-45ed-ad05-8efce343d695-tr-0-1012"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1641803910900,
+  "stop": 1641803910902
+}

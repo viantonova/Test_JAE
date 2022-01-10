@@ -1,0 +1,12 @@
+{
+  "uuid": "153fa4f9-85ba-40fd-b949-6a38066498c5-tc-0-1003",
+  "name": "TestProject1.CalculatorAddTests.ReturnMinus5_WhenAddMinus3AndMinus2",
+  "children": [
+    "1c2631e8-acb8-4a35-827d-b372b2353357-tr-0-1006"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1635366946401,
+  "stop": 1635366946405
+}

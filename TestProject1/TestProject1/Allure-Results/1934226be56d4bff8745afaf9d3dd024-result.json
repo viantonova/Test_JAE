@@ -1,0 +1,132 @@
+{
+  "uuid": "696b866a-e473-443c-b8c2-06e52c0af0ff-tr-0-1007",
+  "historyId": "TestProject1.ClassLifecycle.EvenTest(4)",
+  "fullName": "TestProject1.ClassLifecycle.EvenTest(4)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.ClassLifecycle"
+    },
+    {
+      "name": "testMethod",
+      "value": "EvenTest"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.ClassLifecycle"
+    },
+    {
+      "name": "owner",
+      "value": "unickq"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    },
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "EvenTest(4)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "EvenTest(4)"
+  },
+  "stage": "finished",
+  "description": "Examples\n",
+  "steps": [
+    {
+      "name": "EvenTest(4)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "This method is just saying hello",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1635366505126,
+          "stop": 1635366505126
+        },
+        {
+          "name": "Validate calculations",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1635366505126,
+          "stop": 1635366505126
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "4397d01946cf45fbbb99109f7751619e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635366505126,
+      "stop": 1635366505127
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "4"
+    }
+  ],
+  "start": 1635366505126,
+  "stop": 1635366505128
+}

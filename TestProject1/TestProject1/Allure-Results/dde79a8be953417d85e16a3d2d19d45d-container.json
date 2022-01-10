@@ -1,0 +1,12 @@
+{
+  "uuid": "5ceac6bc-1ef7-4b18-99f1-d9477dc307c2-tc-0-1003",
+  "name": "TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0",
+  "children": [
+    "ad7a2267-e79a-4390-9d94-5d4eaff9d97f-tr-0-1007"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1635366830310,
+  "stop": 1635366830316
+}

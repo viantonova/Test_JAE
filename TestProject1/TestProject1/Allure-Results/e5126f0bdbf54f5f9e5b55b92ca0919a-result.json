@@ -1,0 +1,98 @@
+{
+  "uuid": "ec29f1a2-ca5f-4b92-a72c-932786df8c3f-tr-0-1013",
+  "historyId": "TestProject1.CalculatorAddTests.EvenTest(3)",
+  "fullName": "TestProject1.CalculatorAddTests.EvenTest(3)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "EvenTest"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "EvenTest(3)",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Oh no :( 3 % 2 = 1\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at TestProject1.CalculatorAddTests.EvenTest(Int32 value) in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 119\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EvenTest(3)",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Oh no :( 3 % 2 = 1\r\n  Expected: True\r\n  But was:  False\r\n",
+        "trace": "   at TestProject1.CalculatorAddTests.EvenTest(Int32 value) in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 119\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "75f69b115e7546ce874e06da4de2b0e5-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1639329287951,
+      "stop": 1639329287953
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "3"
+    }
+  ],
+  "start": 1639329287951,
+  "stop": 1639329287953
+}

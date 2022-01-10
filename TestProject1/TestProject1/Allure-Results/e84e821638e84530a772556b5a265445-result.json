@@ -1,0 +1,88 @@
+{
+  "uuid": "d66b8f04-5abc-46d1-a30c-fa39a8ca15a0-tr-0-1007",
+  "historyId": "TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0",
+  "fullName": "TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Return0_WhenMultiply10And0"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "subSuite",
+      "value": "Mul"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [],
+  "name": "Return0_WhenMultiply10And0",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: 1\r\n  But was:  0\r\n",
+    "trace": "   at TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0() in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 93\r\n"
+  },
+  "stage": "finished",
+  "description": "Multiply two integers and returns the mullll\n",
+  "steps": [
+    {
+      "name": "Return0_WhenMultiply10And0",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: 1\r\n  But was:  0\r\n",
+        "trace": "   at TestProject1.CalculatorAddTests.Return0_WhenMultiply10And0() in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 93\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "2a4c219c5c6b42b98a2d799d166d84a7-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1639329288012,
+      "stop": 1639329288016
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1639329288012,
+  "stop": 1639329288016
+}

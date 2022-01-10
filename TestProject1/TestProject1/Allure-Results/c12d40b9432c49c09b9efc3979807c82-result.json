@@ -1,0 +1,88 @@
+{
+  "uuid": "a3bb9a6b-6c19-4936-92b9-917fdb99b635-tr-0-1006",
+  "historyId": "TestProject1.CalculatorAddTests.ReturnMinus5_WhenAddMinus3AndMinus2",
+  "fullName": "TestProject1.CalculatorAddTests.ReturnMinus5_WhenAddMinus3AndMinus2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ReturnMinus5_WhenAddMinus3AndMinus2"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "subSuite",
+      "value": "Add"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [],
+  "name": "ReturnMinus5_WhenAddMinus3AndMinus2",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: 1\r\n  But was:  0\r\n",
+    "trace": "   at TestProject1.CalculatorAddTests.ReturnMinus5_WhenAddMinus3AndMinus2() in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 83\r\n"
+  },
+  "stage": "finished",
+  "description": "Add two integers and returns the sum\n",
+  "steps": [
+    {
+      "name": "ReturnMinus5_WhenAddMinus3AndMinus2",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: 1\r\n  But was:  0\r\n",
+        "trace": "   at TestProject1.CalculatorAddTests.ReturnMinus5_WhenAddMinus3AndMinus2() in D:\\JAE\\TestProject1\\TestProject1\\UnitTest1.cs:line 83\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "62e2a8483fdc4dadb760b40041c4d8fc-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1641803904282,
+      "stop": 1641803904284
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1641803904282,
+  "stop": 1641803904284
+}

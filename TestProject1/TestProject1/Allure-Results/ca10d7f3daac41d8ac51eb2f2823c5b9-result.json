@@ -1,0 +1,104 @@
+{
+  "uuid": "9e670474-b407-40f2-848f-5e81dd632b1a-tr-0-1004",
+  "historyId": "TestProject1.CalculatorAddTests.Return4_WhenAdd2And2",
+  "fullName": "TestProject1.CalculatorAddTests.Return4_WhenAdd2And2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Return4_WhenAdd2And2"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Anton"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "Add"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [
+    {
+      "name": "8911",
+      "url": "https://example.org/8911",
+      "type": "issue"
+    },
+    {
+      "name": "532",
+      "url": "https://example.org/532",
+      "type": "tms"
+    }
+  ],
+  "name": "Return4_WhenAdd2And2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Return4_WhenAdd2And2"
+  },
+  "stage": "finished",
+  "description": "Add two integers and returns the sum\n",
+  "steps": [
+    {
+      "name": "Return4_WhenAdd2And2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "79ce2a43c07c44dcac40a0f39277c374-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635366830326,
+      "stop": 1635366830327
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1635366830326,
+  "stop": 1635366830327
+}

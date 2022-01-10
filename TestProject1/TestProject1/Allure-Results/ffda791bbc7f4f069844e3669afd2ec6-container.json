@@ -1,0 +1,12 @@
+{
+  "uuid": "082cb75d-9b58-4774-b1ed-916ecfc5040e-tc-0-1003",
+  "name": "TestProject1.CalculatorAddTests.Return0_WhenAdd0And0",
+  "children": [
+    "bbef69d1-5129-4fa1-966b-2ee3cbcea9fb-tr-0-1005"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1639329582110,
+  "stop": 1639329582113
+}

@@ -1,0 +1,49 @@
+{
+  "uuid": "0-1009",
+  "fullName": "TestProject1.CalculatorAddTests.Return_Square2",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "Ignored"
+    },
+    {
+      "name": "subSuite",
+      "value": "not neadded now"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Return_Square2"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    }
+  ],
+  "links": [],
+  "name": "Return_Square2",
+  "status": "skipped",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Return_Square2"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1635368004255,
+  "stop": 1635368004255
+}

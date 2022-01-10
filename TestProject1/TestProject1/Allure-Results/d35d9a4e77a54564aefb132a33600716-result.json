@@ -1,0 +1,73 @@
+{
+  "uuid": "0ce22a15-8100-4ecb-9cc6-2405056641fb-tr-0-1008",
+  "historyId": "TestProject1.CalculatorAddTests.Return_Square",
+  "fullName": "TestProject1.CalculatorAddTests.Return_Square",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-HK8JI3V"
+    },
+    {
+      "name": "testClass",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Return_Square"
+    },
+    {
+      "name": "package",
+      "value": "TestProject1.CalculatorAddTests"
+    },
+    {
+      "name": "suite",
+      "value": "CalculatorTests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    }
+  ],
+  "links": [],
+  "name": "Return_Square",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Return_Square"
+  },
+  "stage": "finished",
+  "description": "Square 123\n",
+  "steps": [
+    {
+      "name": "Return_Square",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0314244c204140beaf6312c0a249b39e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1635366946332,
+      "stop": 1635366946343
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1635366946332,
+  "stop": 1635366946343
+}

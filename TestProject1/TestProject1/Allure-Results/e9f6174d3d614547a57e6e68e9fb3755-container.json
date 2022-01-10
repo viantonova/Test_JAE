@@ -1,0 +1,28 @@
+{
+  "uuid": "8126b11d-181a-4fe3-9057-77aaa6903735-tc-0-1002",
+  "name": "TestProject1.ClassLifecycle.EvenTest(2)",
+  "children": [
+    "4096ccb0-53fb-4637-9b4e-b597cad1ea1e-tr-0-1005"
+  ],
+  "befores": [
+    {
+      "name": "ClearResultsDir",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1635366505094,
+      "stop": 1635366505094
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1635366505093,
+  "stop": 1635366505108
+}

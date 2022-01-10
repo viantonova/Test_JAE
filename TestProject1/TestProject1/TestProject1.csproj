@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+    <PackageReference Include="NUnit" Version="3.13.1" />
+    <PackageReference Include="NUnit.Allure" Version="1.0.14" />
+    <PackageReference Include="NUnit.Allure.Steps" Version="1.0.9" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="coverlet.collector" Version="3.0.2" />
+    <PackageReference Include="TrxToHtml.NetCore" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Allure-Results\" />
+    <Folder Include="Allure-Reports\" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="&quot;D:\Program\VisualStudio\Common7\IDE\Extensions\TestPlatform\vstest.console.exe&quot; &quot;D:\JAE\TestProject1\TestProject1\bin\Debug\netcoreapp3.1\TestProject1.dll&quot; /logger:trx;LogFileName=&quot;D:\test.trx&quot;&#xD;&#xA;&quot;D:\JAE\trxer-master\TrxerConsole\bin\Debug\TrxerConsole.exe&quot; &quot;D:\test.trx&quot;" />
+  </Target>
+
+</Project>
